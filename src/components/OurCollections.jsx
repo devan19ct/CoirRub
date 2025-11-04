@@ -2,7 +2,7 @@ import React from "react";
 import Home from "../assets/Home.jpg";
 import Hotel from "../assets/LivingRoom.jpg";
 import Resort from "../assets/Garden.jpg";
-import Office from "../assets/Porch.jpg";
+import Office from "../assets/Poly.jpg";
 import Retail from "../assets/Welcome1.jpg";
 import School from "../assets/butterfly.jpg";
 import Hospital from "../assets/door.jpg";
@@ -11,43 +11,35 @@ import Temple from "../assets/hold.jpg";
 
 const industries = [
   {
-    name: "Residential Homes",
-    description: "Elegant and durable coir rugs and mats that bring warmth and natural charm to every home.",
+    name: "Polypropylene Mats",
     image: Home,
   },
   {
-    name: "Hotels & Resorts",
-    description: "Premium entrance mats and decorative rugs tailored for hospitality and comfort.",
+    name: "Digital Printed Coir Mats",
     image: Hotel,
   },
   {
-    name: "Beachside & Coastal Resorts",
-    description: "Weather-resistant mats perfect for sandy environments and coastal atmospheres.",
+    name: "Wire Brush Mats",
     image: Resort,
   },
   {
-    name: "Corporate Offices",
-    description: "Stylish, long-lasting mats and carpets designed for modern workspaces and receptions.",
+    name: "Polypropylene Loop Mats",
     image: Office,
   },
   {
-    name: "Retail Stores & Showrooms",
-    description: "Attractive, practical flooring solutions that enhance customer experience and ambience.",
+    name: "Coir Embossed Mats",
     image: Retail,
   },
   {
-    name: "Educational Institutions",
-    description: "Durable, easy-to-maintain mats ideal for classrooms, corridors, and common spaces.",
+    name: "Shaped Mats",
     image: School,
   },
   {
-    name: "Healthcare Facilities",
-    description: "Hygienic and slip-resistant mats suited for hospitals, clinics, and wellness centers.",
+    name: "PVC Coir Mats",
     image: Hospital,
   },
   {
-    name: "Temples & Spiritual Spaces",
-    description: "Natural coir mats that add authenticity, simplicity, and durability to sacred areas.",
+    name: "Rubber Tray Mat",
     image: Temple,
   },
 ];
@@ -82,7 +74,7 @@ const IndustryCard = ({ industry }) => (
 export default function IndustriesWeServe() {
   return (
     <div className="min-h-screen bg-gray-100 font-sans p-4 md:p-8">
-      {/* Header */}
+
       <header className="py-12 md:py-16 text-center">
         <h1 className="text-4xl md:text-5xl font-bold text-gray-800 tracking-tight">
           Industries <span className="text-amber-700">We Serve</span>
@@ -94,7 +86,6 @@ export default function IndustriesWeServe() {
         </p>
       </header>
 
-      {/* Grid */}
       <main className="max-w-7xl mx-auto">
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
           {industries.map((industry, index) => (

@@ -21,20 +21,6 @@ export default function Navbar() {
 
         <div className="flex justify-end items-center py-2 border-b border-border">
           <div className="flex gap-4">
-            <a
-              href="https://www.instagram.com/mat4u_official?igsh=aW5pcTA0bDBhOThq"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="text-muted-foreground hover:text-foreground transition-colors"
-            >
-              <Instagram size={16} />
-            </a>
-            <a
-              href="#"
-              className="text-muted-foreground hover:text-foreground transition-colors"
-            >
-              <Facebook size={16} />
-            </a>
           </div>
         </div>
 

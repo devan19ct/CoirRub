@@ -57,8 +57,8 @@ export default function Contact() {
               📍 <span className="font-medium">Marari Coir Rubs</span><br />
               Mararikulam, Kerala, India
             </p>
-            <p>📞 +91 9072033777</p>
-            <p>✉️ info@floorgardens.com</p>
+            <p>📞 +91 9551072222</p>
+            <p>✉️ Info@mararicoirrub.com</p>
           </div>
         </div>
 
