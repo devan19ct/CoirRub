@@ -43,7 +43,7 @@ export default function Navbar() {
           {/* Logo */}
           <div className="flex items-center">
             <h1 className="text-2xl font-heading font-bold text-primary">
-              COIR RUB
+              MARARI COIR RUB
             </h1>
           </div>
 

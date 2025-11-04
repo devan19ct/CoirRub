@@ -26,7 +26,7 @@ export default function WhyChooseUs() {
     <section className="bg-gray-100 py-16 px-6 md:px-12">
       <div className="max-w-6xl mx-auto text-center">
         <h2 className="text-4xl font-bold text-gray-800 mb-4">
-          Why Choose <span className="text-amber-700">Coir Rub</span>?
+          Why Choose <span className="text-amber-700">Marari Coir Rubs</span>?
         </h2>
         <p className="text-gray-600 mb-12 max-w-2xl mx-auto">
           We blend traditional weaving techniques with modern design sensibilities to bring you rugs that are as beautiful as they are durable.

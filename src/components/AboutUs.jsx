@@ -24,7 +24,7 @@ export default function AboutUs() {
             About <span className="text-amber-700">Us</span>
           </h2>
           <p className="text-gray-600 mb-6 leading-relaxed">
-            At <span className="font-semibold text-amber-700">Coir Rubs</span>,
+            At <span className="font-semibold text-amber-700">Marari Coir Rubs</span>,
             we blend traditional craftsmanship with modern design to create
             eco-friendly mats and rugs that bring nature into your home. Our
             products are made using 100% natural coir fibers sourced

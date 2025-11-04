@@ -54,7 +54,7 @@ export default function Contact() {
 
           <div className="space-y-4 text-gray-700">
             <p>
-              📍 <span className="font-medium">Coir Rubs</span><br />
+              📍 <span className="font-medium">Marari Coir Rubs</span><br />
               Mararikulam, Kerala, India
             </p>
             <p>📞 +91 9072033777</p>
