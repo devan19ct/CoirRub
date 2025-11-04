@@ -2,7 +2,7 @@ import React from "react";
 import Home from "../assets/Home.jpg";
 import Hotel from "../assets/LivingRoom.jpg";
 import Resort from "../assets/Garden.jpg";
-import Office from "../assets/Poly.jpg";
+import Office from "../assets/poly.jpg";
 import Retail from "../assets/Welcome1.jpg";
 import School from "../assets/butterfly.jpg";
 import Hospital from "../assets/door.jpg";
