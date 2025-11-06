@@ -58,7 +58,7 @@ export default function Contact() {
               Mararikulam, Kerala, India
             </p>
             <p>📞 +91 9551072222</p>
-            <p>✉️ Info@mararicoirrub.com</p>
+            <p>✉️ info@mararicoirub.in</p>
           </div>
         </div>
 
